@@ -1,5 +1,10 @@
 # KToDo
 
+## Setup
+
+TODO: java 11 (sdk), intellij, open project, run Ktodoapplication, 
+turnaround: Ctrl+Shift+F9, livereload
+
 ## H2 Console
 
 - [http://localhost:8080/h2-console](http://localhost:8080/h2-console)

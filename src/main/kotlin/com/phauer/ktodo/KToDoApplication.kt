@@ -4,8 +4,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class KtodoApplication
+class KToDoApplication
 
 fun main(args: Array<String>) {
-    runApplication<KtodoApplication>(*args)
+    runApplication<KToDoApplication>(*args)
 }
